@@ -1,2 +1,2 @@
-# cwjscript-07
+# cwjscript-08
 https://anarauae.github.io/cwjscript-07/
